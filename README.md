@@ -1,1 +1,1 @@
-# FBI_DATA.py
+This Python code uses the Matplotlib library to create a line plot visualizing crime rates in the US between 2000 and 2019. It defines lists for years, violent crime rates, murder rates, and property crime rates, then plots each crime rate against the years. The plot includes labels for the x and y axes, a title, a legend to distinguish the different crime rates, and a grid for better readability, finally displaying the generated graph.
